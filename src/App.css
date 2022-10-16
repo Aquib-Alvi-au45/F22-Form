@@ -1,0 +1,10 @@
+.app {
+  background: url('../assets/f22-form-bckImg.png') no-repeat center center fixed;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-size: cover; */
+  background-size: cover;
+}
